@@ -5,6 +5,18 @@ This log tracks what I do every day to build consistency, even if it’s just a 
 ---
 
 ## May 2025
+### 📆 21 may 2025
+- introduction to object oriented programming
+- defining a class (!)
+- defining a class (2)
+- constructors and destructors
+- functions vs object oriented programming
+- inheritance
+- single level inheritance
+- multi level inheritance
+- multiple inheritance
+- opertor overloading
+- data hiding 
 
 ### 📅 20 May 2025
 - fintional progamming
