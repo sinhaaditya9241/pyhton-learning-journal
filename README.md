@@ -35,7 +35,9 @@ To become a skilled Quant/Algo Trader by building strong foundations in:
 |--------|---------------------------|--------------|
 | 6      | data structure and string | `module_6`   |
 | 7      | functional progamming     | `module_7`   |
-| ...    | ...                       | ...          |
+| 8      | obect oriented progamming | `module_8`   |
+| 9      | regular expression        | `module_9`   |
+| 10     | Twinter                   | `module_10`  |
 
 ---
 
