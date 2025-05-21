@@ -5,6 +5,12 @@ This log tracks what I do every day to build consistency, even if it’s just a 
 ---
 
 ## May 2025
+### 📆 22 MAY 2025
+- Regular expression
+- match and findall
+- search
+- sub
+- character and chaarcter squence
 ### 📆 21 may 2025
 - introduction to object oriented programming
 - defining a class (!)
