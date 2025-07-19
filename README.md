@@ -1,18 +1,18 @@
 # pyhton-learning
 
-# 🧠 My Learning Journey: Quant & Algo Trading 🚀
+# 🧠 My Learning Journey 🚀
 
 Welcome to my daily learning log where I document everything I learn related to:
-- 📊 Quantitative Finance
-- 🐍 Python for Trading & Backtesting
-- 💹 Forex & Strategy Development
+- 📊 
+- 🐍 Python 
+- 💹 
 - 🧮 Data Analysis and Visualization
 
 ### 🎯 Objective
-To become a skilled Quant/Algo Trader by building strong foundations in:
+To become a skilled python coder by building strong foundations in:
 - Python coding
-- Financial market concepts
-- Strategy backtesting and automation
+
+
 
 ---
 
@@ -38,7 +38,7 @@ To become a skilled Quant/Algo Trader by building strong foundations in:
 | 8      | obect oriented progamming | `module_8`   |
 | 9      | regular expression        | `module_9`   |
 | 10     | Twinter                   | `module_10`  |
-
+and soo on 
 ---
 
 ### 🧭 Long-term Goals
