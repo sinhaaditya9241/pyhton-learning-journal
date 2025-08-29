@@ -26,7 +26,7 @@ This log tracks what I do every day to build consistency, even if it’s just a 
 
 ### 📅 20 May 2025
 - fintional progamming
-- lambda function
+- lambda 
 - filter
 - map
 - iterator and generator
