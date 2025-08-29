@@ -7,7 +7,7 @@ This log tracks what I do every day to build consistency, even if it’s just a 
 ## May 2025
 ### 📆 22 MAY 2025
 - Regular expression
-- match and findall
+- match and findal
 - search
 - sub
 - character and chaarcter squence
