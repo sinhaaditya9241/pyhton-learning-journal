@@ -12,7 +12,7 @@ This log tracks what I do every day to build consistency, even if it’s just a 
 - sub
 - character and chaarcter
 ### 📆 21 may 2025
-- introduction to object oriented programming
+- introduction to object oriented 
 - defining a class (!)
 - defining a class (2)
 - constructors and destructors
