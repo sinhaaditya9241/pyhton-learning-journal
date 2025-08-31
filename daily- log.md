@@ -16,7 +16,7 @@ This log tracks what I do every day to build consistency, even if it’s just a 
 - defining a class (!)
 - defining a class (2)
 - constructors and destructors
-- functions vs object oriented programming
+- functionss object oriented programming
 - inheritance
 - single level inheritance
 - multi level inheritance
