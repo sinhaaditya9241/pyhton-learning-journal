@@ -9,7 +9,6 @@ This log tracks what I do every day to build consistency, even if it’s just a 
 - Regular expression
 - match and findal
 - search
-- sub
 - character and chaarcter
 ### 📆 21 may 2025
 - introduction to object oriented 
